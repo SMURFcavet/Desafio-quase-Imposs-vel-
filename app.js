@@ -79,3 +79,4 @@ const estilos = StyleSheet.create({//o StyleSheet vai deixar toda a parte de est
     borderRadius:15,
   },
 });
+//da próxima vez que usar uma ia indiana vc não será supimpa
